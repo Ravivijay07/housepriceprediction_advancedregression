@@ -1,10 +1,13 @@
 Table of Contents
 
-General Info
+*General Info*
 
-Technologies Used
+*Technologies Used*
 
-Acknowledgements
+*Acknowledgements*
+
+
+
 
 General Information
 
@@ -50,7 +53,6 @@ statsmodels
 
 Acknowledgements
 
-This project was Lending club case study for an online advance course. 
 - https://www.geeksforgeeks.org/ 
 - https://seaborn.pydata.org/ 
 - https://plotly.com/ 
