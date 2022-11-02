@@ -1,15 +1,15 @@
-Table of Contents
+## Table of Contents
 
-*General Info*
+**General Info**
 
-*Technologies Used*
+**Technologies Used**
 
-*Acknowledgements*
-
-
+**Acknowledgements**
 
 
-General Information
+
+
+## General Information
 
 
 Assignment Part-I
@@ -35,7 +35,7 @@ They can accordingly manipulate the strategy of the firm and concentrate on area
 Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 
-Technologies Used
+## Technologies Used
 
 pandas - 1.3.4
 
@@ -51,7 +51,7 @@ sci-kit learn
 
 statsmodels
 
-Acknowledgements
+## Acknowledgements
 
 - https://www.geeksforgeeks.org/ 
 - https://seaborn.pydata.org/ 
@@ -59,7 +59,7 @@ Acknowledgements
 - https://pandas.pydata.org/ 
 - https://learn.upgrad.com/
 
-Contact
+## Contact
 
 Created by [@ravivijay07] - feel free to contact me!
 
