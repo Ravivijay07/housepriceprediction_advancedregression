@@ -1,5 +1,7 @@
 Table of Contents
+
 General Info
+
 Technologies Used
 
 Acknowledgements
@@ -31,16 +33,31 @@ Further, the model will be a good way for management to understand the pricing d
 
 
 Technologies Used
+
 pandas - 1.3.4
+
 numpy - 1.20.3
+
 matplotlib - 3.4.3
+
 seaborn - 0.11.2
+
 plotly - 5.8.0
+
 sci-kit learn
+
 statsmodels
+
 Acknowledgements
-This project was Lending club case study for an online advance course. - https://www.geeksforgeeks.org/ - https://seaborn.pydata.org/ - https://plotly.com/ - https://pandas.pydata.org/ - https://learn.upgrad.com/
+
+This project was Lending club case study for an online advance course. 
+- https://www.geeksforgeeks.org/ 
+- https://seaborn.pydata.org/ 
+- https://plotly.com/ 
+- https://pandas.pydata.org/ 
+- https://learn.upgrad.com/
 
 Contact
+
 Created by [@ravivijay07] - feel free to contact me!
 
